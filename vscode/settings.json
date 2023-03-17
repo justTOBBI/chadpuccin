@@ -1,0 +1,15 @@
+{
+    "catppuccin.colorOverrides": {
+        "frappe": {
+            "base": "#353341",
+            "mantle": "#2e2c38",
+            "crust": "#272530",
+            "overlay2": "#9d9ab1",
+            "overlay1": "#8b899e",
+            "overlay0": "#7b788c",
+            "surface2": "#696779",
+            "surface1": "#585666",
+            "surface0": "#474453"
+        }
+    }
+}
