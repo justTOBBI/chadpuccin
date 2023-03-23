@@ -1,4 +1,6 @@
 # chadpuccin
+<img src=".assets/chad_cat_square.png" width="250" height="250">
+
 
 A warmer catppuccin colorscheme
 
