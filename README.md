@@ -32,8 +32,8 @@
 | Overlay2 | `#827E8D` |
 | Overlay1 | `#918E9C` |
 | Overlay0 | `#A19FAB` |
-| Surface2 | `#B1BOBA` |
-| Surface1 | `#COBFC8` |
+| Surface2 | `#B1B0BA` |
+| Surface1 | `#C0BFC8` |
 | Surface0 | `#CFCFD7` |
 | Base | `#f0f1f4` |
 | Mantle | `#E8E8ED` |
@@ -160,7 +160,7 @@
 ## Example images
 <details>
 <summary> Github </summary>
-<img src='./.assets/res.webp'>
+<img src='./.assets/previews/github/github.webp'>
 </details>
 
 <br>
@@ -171,3 +171,8 @@ So I came up with the idea of just creating a warmer and more welcoming port. I 
 
 ## Why is it called chadpuccin
 It's called that way, because people using chadpuccin can only be chads. So go workout, explore nature, make memories and be a chad.
+
+# Be a chad, and ...
+<a href='https://codeberg.org/justtobbi/chadpuccin'>
+<img src='./.assets/getitoncodeberg.png' alt='Get it on Codeberg'>
+</a>
